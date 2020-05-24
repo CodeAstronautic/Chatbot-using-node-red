@@ -3,7 +3,9 @@ Intelligent Customer Help Desk with Smart Document Understanding
 
 This is repositroy build Using the Watson Discovery Smart Document Understanding (SDU) feature, we will enhance the Discovery model so that queries will be better focused to only search the most relevant information found in a typical owner's manual and Using Watson Assistant, we will use a standard customer care dialog to handle a typical conversation between a custmomer and a company representitive. When a customer question involves operation of a product, the Assistant dialog will communicate with the Discovery service using a webhook.The webhook will be created by defining a web action using IBM Cloud Functions.
 
-Project Explanation Video and Link
+Project Explanation youtube Video and Link
+https://www.youtube.com/watch?v=isXSJEUWWfg&t=18s
+
 
 
 Project Description
