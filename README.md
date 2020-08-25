@@ -16,6 +16,8 @@ To take it a step further, we will use the Smart Document Understanding feature 
 Chatbot Link
 https://node-red-bgptu.eu-gb.mybluemix.net/ui/#!/0?socketid=kfyAtPDNGBb2fMxlAAAJ
 
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=09e9ee0e-b23a-4ea9-8254-0f004b2221a8&serviceInstanceID=f77f65d7-f762-40c6-8b24-1e8e2577bf18
+
 Contents in Repository
 1.Cloud Function Code
 
